@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node.js (if you use it later)
+node_modules/
+
+# Build/output folders
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.*
+
+# Personal/local files
+*.local
